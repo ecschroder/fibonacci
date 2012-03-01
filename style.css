@@ -257,6 +257,13 @@ li.tmpPlaceholder {
 #goldenRectangle > ul#justSomeHTML > li#section-1 {height: 8px; padding: 0; width: 8px;}
 
 
+#goldenRectangle > ul#justSomeHTML > li.onLeft {
+    float: left;
+}
+
+#goldenRectangle > ul#justSomeHTML > li.onRight {
+    float: right;
+}
 
 /* left 'n right slider controls. */
 
